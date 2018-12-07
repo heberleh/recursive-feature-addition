@@ -18,11 +18,11 @@ RFA is a prototype and needs to be assessed. In my doctorate, I have tested with
 ![alt text](https://github.com/heberleh/recursive-feature-addition/blob/master/img/dcv_rfe_vs_rfa.png)
 
 
-Author of RFA: 
+Author of RFA code: 
 
          Henry Heberle <https://github.com/heberleh>
 
-Authors of RFE: 
+Authors of RFE code: 
 
          Alexandre Gramfort <alexandre.gramfort@inria.fr>
 
