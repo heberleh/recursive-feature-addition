@@ -17,8 +17,12 @@ in the following iteration(s).
 
 Author of RFA: Henry Heberle <https://github.com/heberleh>
 
-Authors of RFE: Alexandre Gramfort <alexandre.gramfort@inria.fr>
+Authors of RFE: 
+
+         Alexandre Gramfort <alexandre.gramfort@inria.fr>
+
          Vincent Michel <vincent.michel@inria.fr>
+         
          Gilles Louppe <g.louppe@gmail.com>
 
 License: BSD 3 clause
