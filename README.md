@@ -1,5 +1,4 @@
-#RFA: Recursive Feature Addition
-
+# RFA: Recursive Feature Addition
 
 Modified from the RFE code in this manner:
 Instead of elimination the worst feature, the algorithm eliminates the best feature.
@@ -13,6 +12,8 @@ and let the other be positioned in the beggining of the rank.
 RFA gets the best feature and put it in the beggining of the rank, then, if a protein is 
 very similar to this one, it is expected that the RFA will select this 
 in the following iteration(s).
+
+![alt text](https://github.com/heberleh/recursive-feature-addition/blob/master/img/dcv_rfe_vs_rfa.png)
 
 
 Author of RFA: 
