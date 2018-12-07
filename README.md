@@ -13,6 +13,8 @@ RFA gets the best feature and put it in the beggining of the rank, then, if a pr
 very similar to this one, it is expected that the RFA will select this 
 in the following iteration(s).
 
+RFA is a prototype and needs to be assessed. In my doctorate, I have tested with only one dataset and it demonstrated to position the controlled True Positive important-features, candidate biomarkers, more consistently, also being more stable among cross-validation iterations.
+
 ![alt text](https://github.com/heberleh/recursive-feature-addition/blob/master/img/dcv_rfe_vs_rfa.png)
 
 
