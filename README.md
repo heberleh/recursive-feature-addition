@@ -15,7 +15,9 @@ very similar to this one, it is expected that the RFA will select this
 in the following iteration(s).
 
 
-Author of RFA: Henry Heberle <https://github.com/heberleh>
+Author of RFA: 
+
+         Henry Heberle <https://github.com/heberleh>
 
 Authors of RFE: 
 
@@ -25,4 +27,6 @@ Authors of RFE:
          
          Gilles Louppe <g.louppe@gmail.com>
 
-License: BSD 3 clause
+License: 
+         
+         BSD 3 clause
