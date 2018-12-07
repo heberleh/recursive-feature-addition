@@ -22,7 +22,7 @@ Author of RFA code:
 
          Henry Heberle <https://github.com/heberleh>
 
-Authors of RFE code: 
+Authors of RFE code - From Sklearn: 
 
          Alexandre Gramfort <alexandre.gramfort@inria.fr>
 
