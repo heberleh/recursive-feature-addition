@@ -1,5 +1,4 @@
-# recursive-feature-addition
-RFA: Recursive Feature Addition
+#RFA: Recursive Feature Addition
 
 
 Modified from the RFE code in this manner:
@@ -16,10 +15,10 @@ very similar to this one, it is expected that the RFA will select this
 in the following iteration(s).
 
 
-# Author of RFA: Henry Heberle <https://github.com/heberleh>
+Author of RFA: Henry Heberle <https://github.com/heberleh>
 
-# Authors of RFE: Alexandre Gramfort <alexandre.gramfort@inria.fr>
-#          Vincent Michel <vincent.michel@inria.fr>
-#          Gilles Louppe <g.louppe@gmail.com>
+Authors of RFE: Alexandre Gramfort <alexandre.gramfort@inria.fr>
+         Vincent Michel <vincent.michel@inria.fr>
+         Gilles Louppe <g.louppe@gmail.com>
 
-# License: BSD 3 clause
+License: BSD 3 clause
